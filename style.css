@@ -13,7 +13,8 @@ body {
   font-weight: bold;
   color: #fff;
   text-shadow: 0 0 10px #ff0000, 0 0 20px #aa0000;
-  background: rgba(0, 0, 0, 0.5); /* نیمه‌شفاف برای خوانایی */
+  background: rgba(0, 0, 0, 0.5);
+  /* نیمه‌شفاف برای خوانایی */
   padding: 20px 40px;
   border-radius: 10px;
   border: 2px solid #ff4444;
@@ -23,7 +24,7 @@ body {
 
 .hero-section {
   position: relative;
-  background-image: url("./photo/Arbaein(1354)-Karbobala.com.jpg");
+  background-image: url("https://astro-nona.storage.c2.liara.space/photo%20heyaat/Arbaein%281354%29-Karbobala.com.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=6b96162b-d379-44a7-ae3f-e3cd178bbf19%2F20250704%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250704T083558Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=2a9c8f13ddfcefb8e9c1edfb2dd43b665747b6286a3fee8b025b53d03422d6d2");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
